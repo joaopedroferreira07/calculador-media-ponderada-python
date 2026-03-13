@@ -1,4 +1,4 @@
-# Media ponderada
+# Calculador de media ponderada
 p_1 = float(input("Qual foi a sua nota na prova 1?"))
 p_2 = float(input("Qual foi a sua nota na prova 2?"))
 p_3 = float(input("Qual foi a sua nota na prova 3?"))
